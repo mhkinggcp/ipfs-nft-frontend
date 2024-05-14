@@ -1,0 +1,15 @@
+
+.count-container {
+    border: 1px solid #FF0000;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.count-heading {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.count-value {
+    font-size: 2rem;
+}
